@@ -1,0 +1,946 @@
+,Case Type,Fraud Type,Name,State,Year
+1,Criminal Conviction,Ballot Petition Fraud,Bradley Jasperson,California,2020
+2,Criminal Conviction,Ballot Petition Fraud,Norman Hall,California,2020
+3,Criminal Conviction,False Registrations,April Atilano,California,2020
+4,Criminal Conviction,Ballot Petition Fraud,Jentry Jasperson,California,2020
+5,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Dyon Herrera,New Mexico,2020
+6,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Laura Seeds,New Mexico,2020
+7,Criminal Conviction,Ballot Petition Fraud,Lauren Creekmore Peabody,Virginia,2020
+8,Criminal Conviction,Ineligible Voting,Tess Alayna Bishop,West Virginia,2020
+9,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Elbert Melton,Alabama,2019
+10,Criminal Conviction,Ineligible Voting,Gustavo Araujo Lerma,California,2019
+11,Criminal Conviction,False Registrations,Richard Davis,California,2019
+12,Criminal Conviction,Ineligible Voting,Gustavo Araujo Lerma,California,2019
+13,Diversion Program,"False Registrations, Ineligible Voting",Jennifer Robinson,Mississippi,2019
+14,Criminal Conviction,Buying Votes,Andrew Grant,Mississippi,2019
+15,Criminal Conviction,Miscellaneous,Courtney Rainey,Mississippi,2019
+17,Diversion Program,"False Registrations, Ineligible Voting",Jennifer Robinson,Mississippi,2019
+18,Criminal Conviction,Buying Votes,Andrew Grant,Mississippi,2019
+19,Criminal Conviction,Miscellaneous,Courtney Rainey,Mississippi,2019
+20,Official Finding,Fraudulent Use Of Absentee Ballots,Ninth Congressional District of North…,North Carolina,2019
+21,Criminal Conviction,Duplicate Voting,Charles Eugene Cartier Jr,New Hampshire,2019
+22,Criminal Conviction,"False Registrations, Duplicate Voting",Spencer McKinnon,New Hampshire,2019
+23,Criminal Conviction,Duplicate Voting,John S. Fleming Jr.,New Hampshire,2019
+24,Criminal Conviction,Duplicate Voting,Robert Bell,New Hampshire,2019
+25,Criminal Conviction,Duplicate Voting,Grace Fleming Jr.,New Hampshire,2019
+26,Criminal Conviction,Buying Votes,Frank Raia,New Jersey,2019
+27,Criminal Conviction,False Registrations,Reginald Holman ,Ohio,2019
+28,Criminal Conviction,Ineligible Voting,Yaakov M. Schulman,Ohio,2019
+29,Criminal Conviction,Ineligible Voting,Casey Vandorn,Oklahoma,2019
+30,Criminal Conviction,Ineligible Voting,William Hines ,Oklahoma,2019
+31,Criminal Conviction,Duplicate Voting,Katie Meyer,Oregon,2019
+33,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Duplicate Voting",Marjory Gale,Oregon,2019
+34,Criminal Conviction,Duplicate Voting,Betty Clark,Oregon,2019
+35,Criminal Conviction,Duplicate Voting,Jeremy Robbins,Oregon,2019
+36,Criminal Conviction,Miscellaneous,Michael Cruz,Oregon,2019
+37,Criminal Conviction,Buying Votes,"Brian K. ""Wormy"" Hodge",Tennessee,2019
+38,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Charles Nathan Jackson,Texas,2019
+39,Criminal Conviction,Ballot Petition Fraud,Richard Howard,California,2018
+40,Criminal Conviction,Duplicate Voting,Nathan Parks,Colorado,2018
+41,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Troy Stevenson,Connecticut,2018
+42,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Betty Chappell,Connecticut,2018
+43,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Bret Warren,Florida,2018
+44,Judicial Finding,Election Overturned,Georgia's 28th House District,Georgia,2018
+45,Criminal Conviction,Duplicate Voting,Jesse Johnson,Illinois,2018
+46,Criminal Conviction,Duplicate Voting,Janet Pokryfke,Illinois,2018
+47,Criminal Conviction,False Registrations,Calvin Borders III,Illinois,2018
+49,Criminal Conviction,Duplicate Voting,Janet Pokryfke,Illinois,2018
+50,Criminal Conviction,False Registrations,Candice Borders,Illinois,2018
+51,Criminal Conviction,Ballot Petition Fraud,Thomas Rudd,Illinois,2018
+52,Criminal Conviction,False Registrations,Janie Walker,Illinois,2018
+53,Criminal Conviction,Ballot Petition Fraud,Ellen Mauer,Illinois,2018
+54,Criminal Conviction,Ineligible Voting,Marcello Villaruz,Illinois,2018
+55,Criminal Conviction,Ballot Petition Fraud,Denise Zwit,Illinois,2018
+56,Criminal Conviction,Ineligible Voting,Gina Villaruz,Illinois,2018
+57,Criminal Conviction,False Registrations,"Calvin Borders, Jr.",Illinois,2018
+58,Criminal Conviction,Ballot Petition Fraud,Chris Strough,Maryland,2018
+59,Criminal Conviction,Duplicate Voting,Michael Nana Baako,Maryland,2018
+60,Criminal Conviction,Ineligible Voting,Jeffrey Spanier,Minnesota,2018
+61,Diversion Program,Duplicate Voting,Larry Reker,Minnesota,2018
+62,Criminal Conviction,False Registrations,Cory Ferreaz ,Mississippi,2018
+63,Criminal Conviction,Ineligible Voting,Ramon Esteban Paez-Jerez,North Carolina,2018
+65,Criminal Conviction,Ineligible Voting,Daniel Tadeusz Romanowski,North Carolina,2018
+66,Criminal Conviction,Ineligible Voting,Dieudonne Soifils,North Carolina,2018
+67,Criminal Conviction,Ineligible Voting,Roberto Hernandez-Cuarenta,North Carolina,2018
+68,Criminal Conviction,Ineligible Voting,Guadalupe Espinosa-Pena,North Carolina,2018
+69,Criminal Conviction,Ineligible Voting,Alessandro Cannizzaro,North Carolina,2018
+70,Criminal Conviction,Ineligible Voting,Maria Rufina Castillo-Boswell,North Carolina,2018
+71,Criminal Conviction,Ineligible Voting,Dora Maybe Damata-Rodriguez,North Carolina,2018
+72,Criminal Conviction,Ineligible Voting,Juan Francisco Landeros-Mireles,North Carolina,2018
+73,Criminal Conviction,Ineligible Voting,Jose Cruz Solano-Rodriguez ,North Carolina,2018
+74,Criminal Conviction,Ineligible Voting,Hyo Suk George,North Carolina,2018
+75,Criminal Conviction,Ineligible Voting,Ramon Esteban Paez-Jerez,North Carolina,2018
+76,Criminal Conviction,Ineligible Voting,Merious Jean,North Carolina,2018
+77,Criminal Conviction,Duplicate Voting,Hannan Yassin Aboubaker,North Dakota,2018
+78,Official Finding,Fraudulent Use Of Absentee Ballots,Anonymous,New Hampshire,2018
+79,Official Finding,Duplicate Voting,Anonymous,New Hampshire,2018
+81,Official Finding,False Registrations,Anonymous,New Hampshire,2018
+82,Criminal Conviction,Duplicate Voting,Bert Goldfinger,New York,2018
+83,Criminal Conviction,False Registrations,Ana Matias,Ohio,2018
+84,Criminal Conviction,False Registrations,Janitha Rippey,Ohio,2018
+85,Criminal Conviction,Ineligible Voting,Kenyron O. Glasgow,Ohio,2018
+86,Criminal Conviction,Ineligible Voting,Leslie C. Allen,Ohio,2018
+87,Criminal Conviction,False Registrations,Gilbert A. Brown,Ohio,2018
+88,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ronald Henry,Oklahoma,2018
+89,Criminal Conviction,Miscellaneous,Calvin Mattox,Pennsylvania,2018
+90,Criminal Conviction,Miscellaneous,Wallace Hill,Pennsylvania,2018
+91,Criminal Conviction,Miscellaneous,Thurman George,Pennsylvania,2018
+92,Diversion Program,Miscellaneous,Dolores Shaw,Pennsylvania,2018
+93,Criminal Conviction,Buying Votes,Betty Best,Tennessee,2018
+94,Judicial Finding,Election Overturned,"Kleberg County, TX",Texas,2018
+95,Judicial Finding,Election Overturned,"Kaufman County, TX",Texas,2018
+97,Judicial Finding,Election Overturned,"Kaufman County, TX",Texas,2018
+98,Criminal Conviction,Ineligible Voting,Laura Janeth Garza,Texas,2018
+99,Criminal Conviction,Ineligible Voting,Mario Obdulio Orellana ,Texas,2018
+100,Judicial Finding,Election Overturned,"City of Mission, TX",Texas,2018
+101,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Miguel Hernandez,Texas,2018
+102,Criminal Conviction,Ballot Petition Fraud,Russ Casey,Texas,2018
+103,Criminal Conviction,Ineligible Voting,Cassandra Amber Marie Ritter,Virginia,2018
+104,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Richard Douglas Dohmen,Virginia,2018
+105,Judicial Finding,Ballot Petition Fraud,Shaun Brown,Virginia,2018
+106,Criminal Conviction,Ballot Petition Fraud,Peggy West,Wisconsin,2018
+107,Criminal Conviction,False Registrations,Jeffrey Hartman,West Virginia,2018
+108,Judicial Finding,Fraudulent Use Of Absentee Ballots,Brandon Dean,Alabama,2017
+109,Official Finding,"Fraudulent Use Of Absentee Ballots, Election Overturned",Wetumpka City Council District 2,Alabama,2017
+110,Criminal Conviction,False Registrations,Ashley Drain Hampton,California,2017
+111,Criminal Conviction,False Registrations,Alexander Bronson,California,2017
+113,Criminal Conviction,False Registrations,Alexander Bronson,California,2017
+114,Criminal Conviction,Ballot Petition Fraud,Angelo Felix Abad,Colorado,2017
+115,Criminal Conviction,Ballot Petition Fraud,Maureen Marie Moss,Colorado,2017
+116,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Duplicate Voting",Sarilu Sosa-Sanchez,Colorado,2017
+117,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Toni Lee Newbill,Colorado,2017
+118,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Steven Curtis,Colorado,2017
+119,Criminal Conviction,Altering The Vote Count,Gladys Coego,Florida,2017
+120,Official Finding,Ineligible Voting,Deszi Marquis Hayes,Florida,2017
+121,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Mia Antoinette Nowells,Florida,2017
+122,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Anthony Grant,Florida,2017
+123,Criminal Conviction,False Registrations,Tomika Curgil ,Florida,2017
+124,Criminal Conviction,"Illegal ""Assistance"" At The Polls",Charlie Mack Wooten,Georgia,2017
+125,Criminal Conviction,"Illegal ""Assistance"" At The Polls",Evelyn Griffin,Georgia,2017
+126,Criminal Conviction,"Illegal ""Assistance"" At The Polls",James Curtis Hicks,Georgia,2017
+127,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Duplicate Voting",Terri Lynn Rote,Iowa,2017
+129,Criminal Conviction,Duplicate Voting,Christopher Billups,Idaho,2017
+130,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Brian McDouglar,Illinois,2017
+131,Criminal Conviction,Ineligible Voting,Miguel Valencia-Sandoval,Illinois,2017
+132,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Steveland Kidd,Illinois,2017
+133,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Max Judson,Indiana,2017
+134,Criminal Conviction,False Registrations,Jerome Kesler,Indiana,2017
+135,Criminal Conviction,Ineligible Voting,Victor David Garcia Bebek,Kansas,2017
+136,Criminal Conviction,"Duplicate Voting, Ineligible Voting",Preston Glen Christensen,Kansas,2017
+137,Criminal Conviction,Miscellaneous,Keith Justice,Kentucky,2017
+138,Criminal Conviction,Ineligible Voting,John Doe,Maryland,2017
+139,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Michelle Marie Landsteiner,Minnesota,2017
+140,Criminal Conviction,Ineligible Voting,Leonardo Lleras-Rodriguez,Missouri,2017
+141,Criminal Conviction,False Registrations,Kevin Kunlay Williams (a.k.a. Kunlay…,Missouri,2017
+142,Criminal Conviction,Ballot Petition Fraud,Danny Williams,Missouri,2017
+143,Criminal Conviction,Duplicate Voting,Robert Lee Youngblood,North Carolina,2017
+145,Criminal Conviction,Duplicate Voting,Dewey Gidcumb,North Carolina,2017
+146,Criminal Conviction,Ineligible Voting,Edward Charles Green,North Carolina,2017
+147,Criminal Conviction,Ineligible Voting,Dalton Shane Smith,North Carolina,2017
+148,Diversion Program,Duplicate Voting,Dale Monte Larsen,North Dakota,2017
+149,Criminal Conviction,Duplicate Voting,Ali Abdullahi,Nebraska,2017
+150,Criminal Conviction,Duplicate Voting,Shueb Ali,Nebraska,2017
+151,Criminal Conviction,False Registrations,Don Leeman,New Hampshire,2017
+152,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Melvin Howell,New Jersey,2017
+153,Criminal Conviction,Ballot Petition Fraud,Renaldo Johnson,Nevada,2017
+154,Criminal Conviction,False Registrations,Shalom Lamm,New York,2017
+155,Criminal Conviction,False Registrations,Kenneth Nakdimen,New York,2017
+156,Criminal Conviction,False Registrations,Rus Thompson,New York,2017
+157,Criminal Conviction,Ineligible Voting,Konstantinos Mouzos,Ohio,2017
+158,Criminal Conviction,False Registrations,Rebecca Hammonds,Ohio,2017
+159,Criminal Conviction,Ineligible Voting,Awais Jamil,Ohio,2017
+161,Diversion Program,False Registrations,Richard Cummings Jr.,Pennsylvania,2017
+162,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Tyron Davis,Texas,2017
+163,Criminal Conviction,Impersonation Fraud At The Polls,Jeanene Johnson,Texas,2017
+164,Criminal Conviction,Impersonation Fraud At The Polls,Latunia Thomas,Texas,2017
+165,Criminal Conviction,Miscellaneous,Noe Olvera,Texas,2017
+166,Criminal Conviction,Ineligible Voting,Rosa Maria Ortega,Texas,2017
+167,Criminal Conviction,Ineligible Voting,Crystal Mason,Texas,2017
+168,Criminal Conviction,False Registrations,Andrew J. Spieles,Virginia,2017
+169,Criminal Conviction,False Registrations,Vafalay Massaquoi,Virginia,2017
+170,Criminal Conviction,Ineligible Voting,Mark Fischer,Wisconsin,2017
+171,Official Finding,Ineligible Voting,Wisconsin Elections Commission,Wisconsin,2017
+172,Criminal Conviction,Duplicate Voting,Troy Schiller,Wisconsin,2017
+173,Criminal Conviction,Ineligible Voting,Jessica Steinke,Wisconsin,2017
+174,Criminal Conviction,Duplicate Voting,Carson Lee Tuttle,West Virginia,2017
+175,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Daniel W. Reynolds,Alabama,2016
+177,Criminal Conviction,Duplicate Voting,David Pruitt,Arkansas,2016
+178,Criminal Conviction,Duplicate Voting,Franklin West Turner,Arizona,2016
+179,Criminal Conviction,Duplicate Voting,David Milton Culberson,Arizona,2016
+180,Criminal Conviction,Duplicate Voting,Adam Bruce Hallin,Arizona,2016
+181,Criminal Conviction,Duplicate Voting,John David Hamrick,Arizona,2016
+182,Criminal Conviction,Duplicate Voting,Gerald Bernard Sack,Arizona,2016
+183,Criminal Conviction,Duplicate Voting,Steven Jeffrey Streeter,Arizona,2016
+184,Criminal Conviction,Duplicate Voting,Jay Sherill Thompson,Arizona,2016
+185,Diversion Program,Duplicate Voting,Kevin L. Charvoz,California,2016
+186,Criminal Conviction,False Registrations,Jose Fragozo,California,2016
+187,Diversion Program,Duplicate Voting,Jonathan Chan,California,2016
+188,Criminal Conviction,Ballot Petition Fraud,Maria C. Del Toro,California,2016
+189,Diversion Program,Duplicate Voting,James Parke Major,California,2016
+190,Criminal Conviction,Ineligible Voting,Gustavo Araujo Lerma,California,2016
+191,Criminal Conviction,Ballot Petition Fraud,Elsadig Saeed Merghani,Colorado,2016
+193,Civil Penalty,False Registrations,Tiffany Edwards Hunt,Hawaii,2016
+194,Criminal Conviction,Ineligible Voting,Erin Venessa Leeper,Iowa,2016
+195,Criminal Conviction,Ineligible Voting,Glen Tank,Iowa,2016
+196,Criminal Conviction,Duplicate Voting,Marvin Hershman,Illinois,2016
+197,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Audrey Cook,Illinois,2016
+198,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Lowell ""Ross"" Colen",Indiana,2016
+199,Criminal Conviction,Duplicate Voting,Michael L. Hannum,Kansas,2016
+200,Criminal Conviction,Duplicate Voting,Randall K. Kilian,Kansas,2016
+201,Criminal Conviction,Duplicate Voting,Ron R. Weems,Kansas,2016
+202,Criminal Conviction,Duplicate Voting,Lincoln Wilson,Kansas,2016
+203,Criminal Conviction,Duplicate Voting,James Criswell,Kansas,2016
+204,Criminal Conviction,Duplicate Voting,Sharon Farris,Kansas,2016
+205,Criminal Conviction,Buying Votes,"Gary Risner, Larry Shepherd, Tami Jo…",Kentucky,2016
+206,Criminal Conviction,Buying Votes,Scott Lynn McCarty,Kentucky,2016
+207,Criminal Conviction,Ballot Petition Fraud,Brandon Hall,Michigan,2016
+209,Criminal Conviction,Ineligible Voting,Alysse Miranda Fitzpatrick,Minnesota,2016
+210,Criminal Conviction,Ineligible Voting,Ashley Nicole Williams,Minnesota,2016
+211,Criminal Conviction,Ineligible Voting,Taylor Mitchel Spence,Minnesota,2016
+212,Criminal Conviction,Ineligible Voting,Noah Summers,Minnesota,2016
+213,Criminal Conviction,False Registrations,Darrell Leonard Webb,Minnesota,2016
+214,Criminal Conviction,Ineligible Voting,Lisa Suzanne Anderson,Minnesota,2016
+215,Criminal Conviction,Ballot Petition Fraud,Tracy Renee Jones,Missouri,2016
+216,Judicial Finding,Election Overturned,North St. Louis,Missouri,2016
+217,Criminal Conviction,Ballot Petition Fraud,"Rogell Coker, Jr.",Missouri,2016
+218,Criminal Conviction,Ballot Petition Fraud,Keven Hayes,Missouri,2016
+219,Official Finding,Ineligible Voting,Robert Dean Hudson,North Carolina,2016
+220,Criminal Conviction,Ineligible Voting,Patrick Cannon,North Carolina,2016
+221,Official Finding,Election Overturned,"Lumberton, NC",North Carolina,2016
+222,Criminal Conviction,"Duplicate Voting, False Registrations",Roger Adam Herres,North Carolina,2016
+223,Official Finding,Election Overturned,"Pembroke, NC",North Carolina,2016
+225,Civil Penalty,Fraudulent Use Of Absentee Ballots,Nancy Sullivan,New Hampshire,2016
+226,Criminal Conviction,Duplicate Voting,Derek Castonguay,New Hampshire,2016
+227,Criminal Conviction,False Registrations,Tina Marie Parks,Nevada,2016
+228,Criminal Conviction,False Registrations,Harold Baird,New York,2016
+229,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ana Cuevas,New York,2016
+230,Criminal Conviction,Ballot Petition Fraud,Ernest Everett,New York,2016
+231,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Hector Ramirez,New York,2016
+232,Criminal Conviction,Impersonation Fraud At The Polls,"Robin Trainor, Laura Murtaugh",Pennsylvania,2016
+233,Criminal Conviction,Impersonation Fraud At The Polls,Cheryl Ali (aka Cheryl Jamison),Pennsylvania,2016
+234,Criminal Conviction,Altering The Vote Count,"Myron Cowher, Dmitry Kupershmidt",Pennsylvania,2016
+235,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Graciela Sanchez,Texas,2016
+236,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Guadalupe Rivera,Texas,2016
+237,Criminal Conviction,Miscellaneous,Mary P. Taylor,Virginia,2016
+238,Criminal Conviction,False Registrations,"William ""Billy"" Everett Mills…",Virginia,2016
+239,Criminal Conviction,Ineligible Voting,Nebi Ademi,Wisconsin,2016
+241,Criminal Conviction,Duplicate Voting,Robert Monroe,Wisconsin,2016
+242,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Olivia Lee Reynolds,Alabama,2015
+243,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Janice Lee Hart,Alabama,2015
+244,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Lesa Coleman,Alabama,2015
+245,Criminal Conviction,Duplicate Voting,Regina Kay Beaupre,Arizona,2015
+246,Criminal Conviction,Duplicate Voting,Jeffery Worth Hitchcock,Arizona,2015
+247,Criminal Conviction,False Registrations,Donald Dewsnup,California,2015
+248,Criminal Conviction,Duplicate Voting,Mark Evans,California,2015
+249,Criminal Conviction,False Registrations,Vitaliy B. Grabchenko,Colorado,2015
+250,Criminal Conviction,False Registrations,Christina Ayala,Connecticut,2015
+251,Criminal Conviction,False Registrations,William Hazard,Florida,2015
+252,Criminal Conviction,Ineligible Voting,Annique Lesage Newton,Florida,2015
+253,Civil Penalty,False Registrations,Eric Haynes,Florida,2015
+254,Criminal Conviction,False Registrations,Mohammad Shafiq,Georgia,2015
+255,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Brian McDouglar,Illinois,2015
+257,Criminal Conviction,Duplicate Voting,Steven Gaedtke,Kansas,2015
+258,Criminal Conviction,"Buying Votes, Election Overturned",Stanley Leger,Louisiana,2015
+259,Diversion Program,Impersonation Fraud At The Polls,Mark Atlas,Massachusetts,2015
+260,Criminal Conviction,False Registrations,Adam Kane Easlick,Michigan,2015
+261,Diversion Program,Buying Votes,Max Sanders,Minnesota,2015
+262,Criminal Conviction,False Registrations,Deidra Humphrey,Missouri,2015
+263,Criminal Conviction,False Registrations,"Mack Charles West, Jr.",Mississippi,2015
+264,Criminal Conviction,False Registrations,Mamie Johnson,Mississippi,2015
+265,Diversion Program,False Registrations,Rhonda Wilhite Dowdy,Mississippi,2015
+266,Criminal Conviction,Duplicate Voting,Pasco Parker,North Carolina,2015
+267,Criminal Conviction,Ineligible Voting,Samuel Walter Sylvester IV,North Carolina,2015
+268,Judicial Finding,Election Overturned,Perth Amboy City Council,New Jersey,2015
+269,Diversion Program,Impersonation Fraud At The Polls,Eugene W. Victor,New Mexico,2015
+270,Criminal Conviction,Ballot Petition Fraud,Frank Sparaco,New York,2015
+271,Judicial Finding,Ineligible Voting,"Lorain, OH",Ohio,2015
+273,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Eugene Gallagher,Pennsylvania,2015
+274,Criminal Conviction,Ballot Petition Fraud,Annette Bosworth,South Dakota,2015
+275,Criminal Conviction,Ballot Petition Fraud,Janice Howe,South Dakota,2015
+276,Criminal Conviction,Ballot Petition Fraud,Clayton G. Walker,South Dakota,2015
+277,Diversion Program,"Illegal ""Assistance"" At The Polls",Vicenta Guajardo Verino,Texas,2015
+278,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Margarita Rangel Ozuna,Texas,2015
+279,Diversion Program,Fraudulent Use Of Absentee Ballots,Sara Virginia Perales,Texas,2015
+280,Criminal Conviction,Buying Votes,"Francisco ""Frankie"" Garcia,…",Texas,2015
+281,Criminal Conviction,"Illegal ""Assistance"" At The Polls",Facunda Garcia ,Texas,2015
+282,Diversion Program,Impersonation Fraud At The Polls,Hazel Brionne Woodard,Texas,2015
+283,Criminal Conviction,"Illegal ""Assistance"" At The Polls",Tomasa Ramirez Chavez,Texas,2015
+284,Criminal Conviction,Ineligible Voting,Andrew R. Knox,Wisconsin,2015
+285,Criminal Conviction,Ineligible Voting,Valerie Moran,Wisconsin,2015
+286,Criminal Conviction,"False Registrations, Duplicate Voting",John S. Rohde,Wisconsin,2015
+287,Criminal Conviction,Duplicate Voting,Milton Fender,Arizona,2014
+289,Criminal Conviction,Duplicate Voting,Edward Thomas Nichols,Arizona,2014
+290,Criminal Conviction,Ineligible Voting,Curtis Vernon Pyeatt,Arizona,2014
+291,Criminal Conviction,Ineligible Voting,Tom Lee West,Arizona,2014
+292,Criminal Conviction,Duplicate Voting,Debi Gangaware Fender,Arizona,2014
+293,Criminal Conviction,Duplicate Voting,Milton Fender,Arizona,2014
+294,Criminal Conviction,False Registrations,Richard Alarcon,California,2014
+295,Criminal Conviction,False Registrations,Flora Montes de Oca,California,2014
+296,Criminal Conviction,False Registrations,Kathleen Knox,California,2014
+297,Criminal Conviction,False Registrations,Roderick Wright,California,2014
+298,Criminal Conviction,Duplicate Voting,Carol Hannah,Colorado,2014
+299,Criminal Conviction,Miscellaneous,James Webb Baker,Florida,2014
+300,Criminal Conviction,Ineligible Voting,Abel Hernandez-Labra,Iowa,2014
+301,Diversion Program,Ineligible Voting,Mayra Alejandra Lopez Morales,Iowa,2014
+302,Criminal Conviction,Ineligible Voting,Brian Lee Bird,Iowa,2014
+303,Criminal Conviction,Ineligible Voting,Anthony Greer,Iowa,2014
+305,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Augustus Stacker, Jr.",Illinois,2014
+306,Criminal Conviction,"Buying Votes, Fraudulent Use Of Absentee Ballots","James Steven Robinson, Ruth Thomasine…",Kentucky,2014
+307,Criminal Conviction,Ineligible Voting,Fredericus Slicher,Maryland,2014
+308,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Mohammed Abdur Rahman,Michigan,2014
+309,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Salim Ahmed,Michigan,2014
+310,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Armani Asad,Michigan,2014
+311,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Russell Mohammed,Michigan,2014
+312,Criminal Conviction,Ballot Petition Fraud,Edward Pinkney,Michigan,2014
+313,Criminal Conviction,False Registrations,"Alethea Michelle Shaw, Carmon Yvette…",Mississippi,2014
+314,Criminal Conviction,Ineligible Voting,Cobby Williams,Mississippi,2014
+315,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Verna Roehm,North Carolina,2014
+316,Official Finding,Election Overturned,"Pembroke, NC",North Carolina,2014
+317,Criminal Conviction,False Registrations,"Lorin C. Schneider, Jr.",New Hampshire,2014
+318,Diversion Program,False Registrations,Spencer Robbins,New Jersey,2014
+319,Diversion Program,Fraudulent Use Of Absentee Ballots,Rigo and Lisette Rodriguez,New Jersey,2014
+321,Diversion Program,Fraudulent Use Of Absentee Ballots,"Belkis M. Cespedes, Ana Vely-Gomez,…",New Jersey,2014
+322,Criminal Conviction,"False Registrations, Duplicate Voting",Biqui Diana Parra Rodriguez,Nevada,2014
+323,Criminal Conviction,"Ineligible Voting, False Registrations",Hortencia Segura-Munoz,Nevada,2014
+324,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"William McInerney, John Brown, Anthony…",New York,2014
+325,Official Finding,Miscellaneous,New York City Department of…,New York,2014
+326,Criminal Conviction,Ineligible Voting,Bernus Charmont,Ohio,2014
+327,Criminal Conviction,Ineligible Voting,Jean Gobeil,Ohio,2014
+328,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Richard Allan Toney,Pennsylvania,2014
+329,Criminal Conviction,Ineligible Voting,Brenda Woods,Tennessee,2014
+330,Criminal Conviction,Duplicate Voting,Richard Alan Collier,Texas,2014
+331,Criminal Conviction,False Registrations,Carlos Medrano,Texas,2014
+332,Criminal Conviction,Buying Votes,Belinda Solis and Veronica Saldivar,Texas,2014
+333,Criminal Conviction,"False Registrations, Election Overturned","Adrian Heath, Sybil Doyle, and Roberta…",Texas,2014
+334,Criminal Conviction,Ineligible Voting,Stephen Hales,Virginia,2014
+335,Criminal Conviction,Ineligible Voting,Gregory John Briehl,Virginia,2014
+337,Criminal Conviction,"False Registrations, Duplicate Voting",Leonard K. Brown,Wisconsin,2014
+338,Criminal Conviction,Ineligible Voting,Tate Hohnstein,Wisconsin,2014
+339,Diversion Program,False Registrations,Marcie Malszycki,Wisconsin,2014
+340,Criminal Conviction,Duplicate Voting,Todd Murray,Wisconsin,2014
+341,Criminal Conviction,Ineligible Voting,David Koch,Wyoming,2014
+342,Criminal Conviction,Ballot Petition Fraud,Deborah Carroll,Alaska,2013
+343,Civil Penalty,Fraudulent Use Of Absentee Ballots,Minnie Gonzalez,Connecticut,2013
+344,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Deisy Penton de Cabrera,Florida,2013
+345,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Jeffrey Garcia,Florida,2013
+346,Criminal Conviction,Ineligible Voting,Onakia Lanet Griffin,Florida,2013
+347,Criminal Conviction,False Registrations,Rebekah Joy Paul,Florida,2013
+348,Criminal Conviction,False Registrations,Christian David Price,Florida,2013
+349,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Beth Ann Gallagher,Iowa,2013
+350,Criminal Conviction,Ineligible Voting,Nickie Dean Perkins,Iowa,2013
+351,Criminal Conviction,Ineligible Voting,Tehvedin Murgic,Iowa,2013
+353,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Pamela Bryant,Illinois,2013
+354,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Monica LaPlant,Illinois,2013
+355,Criminal Conviction,Ballot Petition Fraud,"Butch Morgan, Jr.",Indiana,2013
+356,Criminal Conviction,Ballot Petition Fraud,"Pam Brunette, Beverly Shelton, Dustin…",Indiana,2013
+357,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Doug Campbell,Indiana,2013
+358,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Paul Etheridge,Indiana,2013
+359,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Michael Marshall,Indiana,2013
+360,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Courtney Llewellyn,Massachusetts,2013
+361,Criminal Conviction,False Registrations,"Enrico ""Jack"" Villamaino",Massachusetts,2013
+362,Criminal Conviction,Duplicate Voting,Wendy Rosen,Maryland,2013
+363,Diversion Program,Fraudulent Use Of Absentee Ballots,Elsie Virginia Schildt,Maryland,2013
+364,Diversion Program,Fraudulent Use Of Absentee Ballots,Linda Earlette Wells,Maryland,2013
+365,Criminal Conviction,Ineligible Voting,Dilsa Maria Saddler,Michigan,2013
+366,Criminal Conviction,Ineligible Voting,Anna Nicole Nelson,Minnesota,2013
+367,Criminal Conviction,Ineligible Voting,Shawn Marie Kaarbo,Minnesota,2013
+369,Criminal Conviction,Altering The Vote Count,Kimberly Readus,Mississippi,2013
+370,Civil Penalty,"Fraudulent Use Of Absentee Ballots, Duplicate Voting",Adam Kumpu & Janine Kumpu,New Hampshire,2013
+371,Criminal Conviction,False Registrations,Silvia Gomez,New Mexico,2013
+372,Criminal Conviction,Duplicate Voting,Roxanne Rubin,Nevada,2013
+373,Criminal Conviction,Miscellaneous,Fran Knapp,New York,2013
+374,Diversion Program,Fraudulent Use Of Absentee Ballots,Sister Marguerite Kloos,Ohio,2013
+375,Criminal Conviction,Duplicate Voting,Virginia McMillan,Ohio,2013
+376,Criminal Conviction,Duplicate Voting,Melowese Richardson,Ohio,2013
+377,Criminal Conviction,Duplicate Voting,Debbie Tingler,Ohio,2013
+378,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Duplicate Voting",Marian Wilson,Ohio,2013
+379,Criminal Conviction,Duplicate Voting,Dominique Atkins,Ohio,2013
+380,Criminal Conviction,Ballot Petition Fraud,Timothy Zureick,Ohio,2013
+381,Diversion Program,False Registrations,Robert Gilchrist,Ohio,2013
+382,Diversion Program,Fraudulent Use Of Absentee Ballots,Russell Glassop,Ohio,2013
+383,Criminal Conviction,Altering The Vote Count,Deanna Swenson,Oregon,2013
+385,Diversion Program,Duplicate Voting,Craig Guymon,South Dakota,2013
+386,Criminal Conviction,False Registrations,Sonia Leticis Solis,Texas,2013
+387,Criminal Conviction,"Impersonation Fraud At The Polls, Duplicate Voting","Lorenzo Antonio Almanza, Jr.",Texas,2013
+388,Diversion Program,Ineligible Voting,Fermina Castillo,Texas,2013
+389,Criminal Conviction,"Illegal ""Assistance"" At The Polls",Margarita Rangel Ozuna,Texas,2013
+390,Diversion Program,False Registrations,Magdalena Robledo Rodriguez,Texas,2013
+391,Criminal Conviction,False Registrations,Martha Estella Rodriguez,Texas,2013
+392,Criminal Conviction,Ineligible Voting,Bonnie Nicholson,Virginia,2013
+393,Criminal Conviction,Ballot Petition Fraud,Adam Ward,Virginia,2013
+394,Criminal Conviction,Ballot Petition Fraud,Jennifer Derrebery,Virginia,2013
+395,Criminal Conviction,Ballot Petition Fraud,Deborah A. Mehling,Wisconsin,2013
+396,Criminal Conviction,Ineligible Voting,Brittany M. Rainey,Wisconsin,2013
+397,Criminal Conviction,Ineligible Voting,Karl Reinelt,Wisconsin,2013
+398,Criminal Conviction,Ineligible Voting,Andrew L. Shepherd,Wisconsin,2013
+399,Criminal Conviction,Ineligible Voting,Richard Alverson,Wisconsin,2013
+401,Criminal Conviction,Ballot Petition Fraud,Caitlin B. Haycock,Wisconsin,2013
+402,Criminal Conviction,Ballot Petition Fraud,Deborah A. Mehling,Wisconsin,2013
+403,Criminal Conviction,Ineligible Voting,Brittany M. Rainey,Wisconsin,2013
+404,Criminal Conviction,Ineligible Voting,Karl Reinelt,Wisconsin,2013
+405,Criminal Conviction,Ineligible Voting,Andrew L. Shepherd,Wisconsin,2013
+406,Criminal Conviction,False Registrations,Dallas Toler,West Virginia,2013
+407,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Shelia Pritchett,Alabama,2012
+408,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Stephanie Elias,Alabama,2012
+409,Criminal Conviction,Ineligible Voting,Venustiano Hernandez-Hernandez,Alabama,2012
+410,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Buying Votes","Hudson Hallum, Kent Hallum, Phillip…",Arkansas,2012
+411,Criminal Conviction,False Registrations,Sheriff Michael David Hays,Arizona,2012
+412,Judicial Finding,Election Overturned,"Vernon, CA",California,2012
+413,Criminal Conviction,Ineligible Voting,Ricardo Lopez-Munguia,California,2012
+414,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Angel Perales and David Silva ,California,2012
+415,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Brittany Curtis,Colorado,2012
+417,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Sergio Robaina,Florida,2012
+418,Criminal Conviction,Ineligible Voting,Josef Sever,Florida,2012
+419,Diversion Program,Fraudulent Use Of Absentee Ballots,Mark Evangelous,Iowa,2012
+420,Criminal Conviction,False Registrations,Terry Hambrick,Iowa,2012
+421,Criminal Conviction,Ineligible Voting,Jason Rawlin,Iowa,2012
+422,Criminal Conviction,Ineligible Voting,Maria Azada,Illinois,2012
+423,Criminal Conviction,Duplicate Voting,Joan Fortner,Illinois,2012
+424,Criminal Conviction,Ineligible Voting,Mahmoud Vakili,Illinois,2012
+425,Criminal Conviction,Ineligible Voting,Parvin Vakili,Illinois,2012
+426,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Christopher Marshall,Indiana,2012
+427,Criminal Conviction,False Registrations,Charlie White,Indiana,2012
+428,Criminal Conviction,Fraudulent Use Of Absentee Ballots,John Cook,Indiana,2012
+429,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Joshua Clemons,Indiana,2012
+430,Criminal Conviction,Buying Votes,Arch Turner,Kentucky,2012
+431,Criminal Conviction,Buying Votes,"Naomi Johnson, Jackie Jennings, and…",Kentucky,2012
+433,Criminal Conviction,Buying Votes,"Naomi Johnson, Jackie Jennings, and…",Kentucky,2012
+434,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Stephen ""Stat"" Smith",Massachusetts,2012
+435,Criminal Conviction,Miscellaneous,Paul Schurick and Julius Henson,Maryland,2012
+436,Criminal Conviction,Ballot Petition Fraud,Jason Bauer and Mike McGuinness,Michigan,2012
+437,Criminal Conviction,Ballot Petition Fraud,"Lorianne O'Brady, Don Yowchuang,…",Michigan,2012
+438,Criminal Conviction,Ineligible Voting,Michael Patrick McAlpin,Minnesota,2012
+439,Criminal Conviction,Ineligible Voting,"Murdock Francis McLeod, Jr.",Minnesota,2012
+440,Diversion Program,Ineligible Voting,Alfreda Bowman,Minnesota,2012
+441,Criminal Conviction,Ineligible Voting,Ryan Richard Halvorson,Minnesota,2012
+442,Criminal Conviction,Ineligible Voting,Matthew John Kluck,Minnesota,2012
+443,Criminal Conviction,Ineligible Voting,Horatio Johnson,North Carolina,2012
+444,Criminal Conviction,Ballot Petition Fraud,"Samuel Ojuri, Joshua Colville, Marcus…",North Dakota,2012
+445,Criminal Conviction,Fraudulent Use Of Absentee Ballots,John Fernandez,New Jersey,2012
+446,Criminal Conviction,False Registrations,Priscilla Morales,New Mexico,2012
+447,Criminal Conviction,Ballot Petition Fraud,Debra Ortutay,New York,2012
+449,Criminal Conviction,Ballot Petition Fraud,Horace Crawford,Ohio,2012
+450,Criminal Conviction,Ballot Petition Fraud,Roshanda F. Croom,Ohio,2012
+451,Criminal Conviction,Ballot Petition Fraud,Brenda Griffin,Ohio,2012
+452,Criminal Conviction,Duplicate Voting,Roger Schantz,Ohio,2012
+453,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Darryl Cates,Oklahoma,2012
+454,Criminal Conviction,Duplicate Voting,Lafayette Keaton,Oregon,2012
+455,Criminal Conviction,Ineligible Voting,Michael Monaghan,Pennsylvania,2012
+456,Criminal Conviction,Ineligible Voting,Linda Brewer,Tennessee,2012
+457,Criminal Conviction,False Registrations,Carlos Medrano,Texas,2012
+458,Criminal Conviction,Ineligible Voting,Jose de Jesus Cano,Texas,2012
+459,Criminal Conviction,Ineligible Voting,Angel Trujillo,Texas,2012
+460,Diversion Program,Ineligible Voting,Jacob Awuol Barac,Texas,2012
+461,Diversion Program,Fraudulent Use Of Absentee Ballots,Gilda Hernandez,Texas,2012
+462,Diversion Program,"Illegal ""Assistance"" At The Polls",Christine Thomas Shank,Texas,2012
+463,Criminal Conviction,False Registrations,Rolando Medrano,Texas,2012
+465,Criminal Conviction,False Registrations,Michael Anthony Harris,Virginia,2012
+466,Criminal Conviction,Ballot Petition Fraud,Feda Morton,Virginia,2012
+467,Criminal Conviction,False Registrations,Sheila Peterson,Virginia,2012
+468,Criminal Conviction,Duplicate Voting,Charles Leo Brandt,Wisconsin,2012
+469,Criminal Conviction,Ballot Petition Fraud,Yadira Colon,Wisconsin,2012
+470,Criminal Conviction,Ineligible Voting,Raphael Nunn,Wisconsin,2012
+471,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Election Overturned","Thomas Ramey, Donald Whitten, and Jerry…",West Virginia,2012
+472,Criminal Conviction,Ineligible Voting,Alvaro Jimenez-Aguilar,Alaska,2011
+473,Criminal Conviction,Duplicate Voting,John Marotta,Arizona,2011
+474,Criminal Conviction,False Registrations,Peter Canova and Gina Thai Canova,Arizona,2011
+475,Criminal Conviction,Duplicate Voting,Rodney Paul Jones,Arizona,2011
+476,Criminal Conviction,False Registrations,James Conway,California,2011
+477,Criminal Conviction,False Registrations,Nativo Lopez,California,2011
+478,Criminal Conviction,False Registrations,Ken Mariette,California,2011
+479,Criminal Conviction,Duplicate Voting,David Harold Shackley,Colorado,2011
+481,Civil Penalty,Fraudulent Use Of Absentee Ballots,Lydia Martinez,Connecticut,2011
+482,Official Finding,False Registrations,James Parker,Georgia,2011
+483,Civil Penalty,Fraudulent Use Of Absentee Ballots,Doyle Stone and Greg Stone,Georgia,2011
+484,Official Finding,False Registrations,Stephen Watson,Georgia,2011
+485,Civil Penalty,Ballot Petition Fraud,"Edwin Morris, Alexia Williams, and Kim…",Georgia,2011
+486,Criminal Conviction,Ineligible Voting,"Martia Phillips, Brandon Dean, Jennifer…",Iowa,2011
+487,Criminal Conviction,False Registrations,Michael Loudermilk and Floyd Willie…,Iowa,2011
+488,Criminal Conviction,Ineligible Voting,Patrick Lyons,Iowa,2011
+489,Criminal Conviction,Ineligible Voting,Christopher Mettin,Iowa,2011
+490,Criminal Conviction,Ineligible Voting,Kay Annette Hansen,Idaho,2011
+491,Diversion Program,False Registrations,Richard A. Keane,Idaho,2011
+492,Criminal Conviction,False Registrations,Susan Rose Harris,Idaho,2011
+493,Diversion Program,False Registrations,Nancy Elaine White,Idaho,2011
+494,Criminal Conviction,"False Registrations, Fraudulent Use Of Absentee Ballots",Michael Collins,Illinois,2011
+495,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Monte Murphy,Indiana,2011
+497,Criminal Conviction,Buying Votes,"Jeffrey Newport, Martha Hughes, Tony…",Kentucky,2011
+498,Criminal Conviction,Buying Votes,Randy Salyer,Kentucky,2011
+499,Criminal Conviction,Ineligible Voting,James Vance Bond,Minnesota,2011
+500,Criminal Conviction,Ineligible Voting,Kiara Shontay White,Minnesota,2011
+501,Criminal Conviction,Ineligible Voting,Mark Steven Tice,Minnesota,2011
+502,Criminal Conviction,Ineligible Voting,Paris Lamar Carey,Minnesota,2011
+503,Criminal Conviction,Ineligible Voting,Shane James Lyman,Minnesota,2011
+504,Criminal Conviction,Ineligible Voting,Troy Alan Scott,Minnesota,2011
+505,Criminal Conviction,Ineligible Voting,Daniel Paul Wichmann,Minnesota,2011
+506,Criminal Conviction,Ineligible Voting,Haleem Khan Shamid,Minnesota,2011
+507,Criminal Conviction,False Registrations,Andrew Frank Schmidt,Minnesota,2011
+508,Criminal Conviction,Ineligible Voting,Chad Alan Savoy,Minnesota,2011
+509,Criminal Conviction,Ineligible Voting,Jason Dennis Grueneich,Minnesota,2011
+510,Criminal Conviction,Ineligible Voting,Kim Katrina Shaw,Minnesota,2011
+511,Criminal Conviction,Ineligible Voting,Matthew Nicholas Agnes,Minnesota,2011
+513,Criminal Conviction,Ineligible Voting,Daniel Paul Wichmann,Minnesota,2011
+514,Criminal Conviction,Ineligible Voting,Haleem Khan Shamid,Minnesota,2011
+515,Criminal Conviction,Ineligible Voting,James Vance Bond,Minnesota,2011
+516,Criminal Conviction,Ineligible Voting,Kiara Shontay White,Minnesota,2011
+517,Criminal Conviction,Ineligible Voting,Mark Steven Tice,Minnesota,2011
+518,Criminal Conviction,Ineligible Voting,Paris Lamar Carey,Minnesota,2011
+519,Criminal Conviction,Ineligible Voting,Angela Jane White,Minnesota,2011
+520,Criminal Conviction,Ineligible Voting,Shannon Dee Moudry,Minnesota,2011
+521,Criminal Conviction,Ineligible Voting,Cheryl Lynn Barrett,Minnesota,2011
+522,Diversion Program,Ineligible Voting,Susan Dulogan Walker,Minnesota,2011
+523,Criminal Conviction,Ineligible Voting,"Dante Antonio Garcia, Jr.",Minnesota,2011
+524,Criminal Conviction,Ineligible Voting,Harold Eugene Thompson,Minnesota,2011
+525,Criminal Conviction,Ineligible Voting,Jason Dennis Grueneich,Minnesota,2011
+526,Criminal Conviction,Ineligible Voting,Kim Katrina Shaw,Minnesota,2011
+527,Criminal Conviction,Ineligible Voting,Matthew Nicholas Agnes,Minnesota,2011
+529,Criminal Conviction,Ineligible Voting,John Paul Thomas,Minnesota,2011
+530,Criminal Conviction,Ineligible Voting,Kyle Robert Deno,Minnesota,2011
+531,Criminal Conviction,Ineligible Voting,Michael Shannon O'Connor,Minnesota,2011
+532,Criminal Conviction,Ineligible Voting,Robert Christopher Schuehle,Minnesota,2011
+533,Criminal Conviction,Ineligible Voting,Brian William Priefer,Minnesota,2011
+534,Criminal Conviction,Ineligible Voting,Colin Lee Schickling,Minnesota,2011
+535,Criminal Conviction,Ineligible Voting,Antonio Vassel Brown,Minnesota,2011
+536,Criminal Conviction,Ineligible Voting,Taylor Joseph Endres,Minnesota,2011
+537,Criminal Conviction,Ineligible Voting,Donna Eileen Carter,Minnesota,2011
+538,Criminal Conviction,Ineligible Voting,James Earl Moore,Minnesota,2011
+539,Criminal Conviction,Ineligible Voting,Kathleen Adelle Hecker,Minnesota,2011
+540,Criminal Conviction,Ineligible Voting,Lacy Jewel Graditi,Minnesota,2011
+541,Criminal Conviction,Ineligible Voting,Michael Van Stephens,Minnesota,2011
+542,Criminal Conviction,Ineligible Voting,Roman Durand Woodard,Minnesota,2011
+543,Criminal Conviction,Ineligible Voting,Carolyn Land,Minnesota,2011
+545,Criminal Conviction,Ineligible Voting,Jeanette Hurt,Minnesota,2011
+546,Criminal Conviction,Ineligible Voting,Kimberly Rae Lynch,Minnesota,2011
+547,Criminal Conviction,Ineligible Voting,Michael David Johnson,Minnesota,2011
+548,Criminal Conviction,False Registrations,Paul Duane Lampl,Minnesota,2011
+549,Criminal Conviction,Ineligible Voting,Sheila Larae Dennis,Minnesota,2011
+550,Criminal Conviction,Ineligible Voting,Vernon Lee Williams,Minnesota,2011
+551,Criminal Conviction,Ineligible Voting,Brohdy Hillis Avery,Minnesota,2011
+552,Criminal Conviction,Ineligible Voting,Anthony Joseph Kippels,Minnesota,2011
+553,Criminal Conviction,Ineligible Voting,Christopher Charles Lawrence,Minnesota,2011
+554,Criminal Conviction,Ineligible Voting,Dewey Robert Simmons,Minnesota,2011
+555,Criminal Conviction,Ineligible Voting,Hector Molina Perez,Minnesota,2011
+556,Criminal Conviction,False Registrations,Jennifer Jo Johnson,Minnesota,2011
+557,Criminal Conviction,Ineligible Voting,Kristina Jane Mossberg,Minnesota,2011
+558,Criminal Conviction,Ineligible Voting,Michael Jordan Brazelton,Minnesota,2011
+559,Criminal Conviction,Ineligible Voting,Paula Jean Smith,Minnesota,2011
+561,Criminal Conviction,False Registrations,Jennifer Jo Johnson,Minnesota,2011
+562,Criminal Conviction,Ineligible Voting,Catherine Yvette Jenkins,Minnesota,2011
+563,Criminal Conviction,Ineligible Voting,Kristina Jane Mossberg,Minnesota,2011
+564,Criminal Conviction,Ineligible Voting,Michael Jordan Brazelton,Minnesota,2011
+565,Criminal Conviction,Ineligible Voting,Robert Christopher Schuehle,Minnesota,2011
+566,Criminal Conviction,Ineligible Voting,Spencer Dwight Cistrunk,Minnesota,2011
+567,Criminal Conviction,Ineligible Voting,Wayne Seton Applebaum,Minnesota,2011
+568,Criminal Conviction,Ineligible Voting,Dominique Nicole Bolden,Minnesota,2011
+569,Criminal Conviction,Ineligible Voting,James Albert Ayers,Minnesota,2011
+570,Criminal Conviction,False Registrations,Andrew Frank Schmidt,Minnesota,2011
+571,Criminal Conviction,Ineligible Voting,John Paul Thomas,Minnesota,2011
+572,Criminal Conviction,Ineligible Voting,Chad Alan Savoy,Minnesota,2011
+573,Criminal Conviction,Ineligible Voting,Kyle Robert Deno,Minnesota,2011
+574,Criminal Conviction,Ineligible Voting,Michael Shannon O'Connor,Minnesota,2011
+575,Criminal Conviction,Ineligible Voting,Roman Durand Woodard,Minnesota,2011
+577,Criminal Conviction,Ineligible Voting,Shannon Dee Moudry,Minnesota,2011
+578,Diversion Program,Ineligible Voting,Susan Dulogan Walker,Minnesota,2011
+579,Criminal Conviction,Ineligible Voting,"Dante Antonio Garcia, Jr.",Minnesota,2011
+580,Criminal Conviction,Ineligible Voting,Harold Eugene Thompson,Minnesota,2011
+581,Criminal Conviction,Ineligible Voting,Jason Dennis Grueneich,Minnesota,2011
+582,Criminal Conviction,Ineligible Voting,Kim Katrina Shaw,Minnesota,2011
+583,Criminal Conviction,Ineligible Voting,Matthew Nicholas Agnes,Minnesota,2011
+584,Criminal Conviction,Ineligible Voting,Patrick Casey Getten,Minnesota,2011
+585,Criminal Conviction,"Ineligible Voting, Fraudulent Use Of Absentee Ballots",Terrance Watts,Mississippi,2011
+586,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Lessadolla Sowers,Mississippi,2011
+587,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Alan Lloyd Skari,Montana,2011
+588,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ronald Harris,New Jersey,2011
+589,Diversion Program,False Registrations,Robert Tierney,New Jersey,2011
+590,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Angel Colon,New Jersey,2011
+591,Criminal Conviction,False Registrations,Amy Adele Busefink and Christopher…,Nevada,2011
+593,Criminal Conviction,Ballot Petition Fraud,Angela Gumbarevic,New York,2011
+594,Criminal Conviction,Ballot Petition Fraud,Joseph Copija,Ohio,2011
+595,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Ballot Petition Fraud",Deshara M. McKinney,Ohio,2011
+596,Criminal Conviction,False Registrations,Gayle Copeland,Tennessee,2011
+597,Criminal Conviction,Impersonation Fraud At The Polls,Delores McMillian,Texas,2011
+598,Criminal Conviction,Ineligible Voting,Regino Cantu Salinas,Texas,2011
+599,Criminal Conviction,"Impersonation Fraud At The Polls, Ineligible Voting",Reyna Almanza,Texas,2011
+600,Diversion Program,Ineligible Voting,Ronald Marsh,Texas,2011
+601,Criminal Conviction,False Registrations,James Halfaday,Virginia,2011
+602,Criminal Conviction,Ineligible Voting,Correy Grady,Wisconsin,2011
+603,Criminal Conviction,Ineligible Voting,Leon Pendleton,Wisconsin,2011
+604,Criminal Conviction,Ineligible Voting,Veronica Toney,Wisconsin,2011
+605,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Karen Tipton Berry,Alabama,2010
+606,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Gay Nell Tinker,Alabama,2010
+607,Criminal Conviction,False Registrations,Eloise Garcia-Mohsin,California,2010
+609,Criminal Conviction,Duplicate Voting,Molly Morales,California,2010
+610,Civil Penalty,False Registrations,Carlos Lopez,Connecticut,2010
+611,Civil Penalty,False Registrations,Luz Lopez,Connecticut,2010
+612,Criminal Conviction,False Registrations,"Maurice Childress, Kashawn John,…",Florida,2010
+613,Criminal Conviction,False Registrations,"Greg ""Charlie"" Burke",Florida,2010
+614,Civil Penalty,Fraudulent Use Of Absentee Ballots,"Carleton Vines, Albert Palmour, Dorothy…",Georgia,2010
+615,Criminal Conviction,"Buying Votes, Duplicate Voting","Michael Douglas, Jr. and Olin Gibson",Georgia,2010
+616,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Tommy Raney and Debra Brown,Georgia,2010
+617,Criminal Conviction,Ineligible Voting,Thomas Gordon Stevens,Idaho,2010
+618,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Kyle R. Johnson,Illinois,2010
+619,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Armando Ramos,Illinois,2010
+620,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Trevon L. Tompkin,Illinois,2010
+621,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Kevin Wiggins,Illinois,2010
+622,Criminal Conviction,Fraudulent Use Of Absentee Ballots,William Brown,Illinois,2010
+623,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Anish Eapen,Illinois,2010
+625,Diversion Program,Ineligible Voting,William Andrew King,Kentucky,2010
+626,Criminal Conviction,Buying Votes,"Wilbur Graves, Wanda Moore, Gary…",Kentucky,2010
+627,Criminal Conviction,Buying Votes,Chester Jones and Sherman Neace,Kentucky,2010
+628,Criminal Conviction,Buying Votes,"R. Cletus Maricle, Douglas Adams,…",Kentucky,2010
+629,Diversion Program,Ineligible Voting,Hugh Melvin Perkins,Kentucky,2010
+630,Diversion Program,Duplicate Voting,Derek Abbott,Maine,2010
+631,Criminal Conviction,Duplicate Voting,Delmer Terrill,Maine,2010
+632,Criminal Conviction,Miscellaneous,Khalid Jafar Wilks,Minnesota,2010
+633,Criminal Conviction,Ineligible Voting,Theresa Marie Barslou,Minnesota,2010
+634,Criminal Conviction,Ineligible Voting,Maurice Leonza Brown,Minnesota,2010
+635,Criminal Conviction,False Registrations,Wayde Charles Minter,Minnesota,2010
+636,Criminal Conviction,Ineligible Voting,Michael Antwon Common,Minnesota,2010
+637,Criminal Conviction,Ineligible Voting,Willie Lee Skykes,Minnesota,2010
+638,Criminal Conviction,Ineligible Voting,Daniel Tyrell Clark,Minnesota,2010
+639,Criminal Conviction,Ineligible Voting,Monica Duarte Duchene,Minnesota,2010
+641,Criminal Conviction,Ineligible Voting,Michael Antwon Common,Minnesota,2010
+642,Criminal Conviction,Ineligible Voting,Willie Lee Skykes,Minnesota,2010
+643,Criminal Conviction,Ineligible Voting,Daniel Tyrell Clark,Minnesota,2010
+644,Criminal Conviction,Ineligible Voting,Monica Duarte Duchene,Minnesota,2010
+645,Criminal Conviction,Ineligible Voting,David Richard Hofmann,Minnesota,2010
+646,Criminal Conviction,Ineligible Voting,Nicole Lynn Carrington,Minnesota,2010
+647,Criminal Conviction,Ineligible Voting,Donald James Diamond,Minnesota,2010
+648,Criminal Conviction,Ineligible Voting,Ronnie Ivy,Minnesota,2010
+649,Criminal Conviction,False Registrations,John and Clara Moretina,Missouri,2010
+650,Criminal Conviction,Duplicate Voting,Tarrell Campbell,Missouri,2010
+651,Criminal Conviction,Buying Votes,"Tate King, Henry Massey, and Lillie…",Mississippi,2010
+652,Criminal Conviction,Buying Votes,"Larry ""Tip"" Massey",Mississippi,2010
+653,Criminal Conviction,Ineligible Voting,James Lester Thompson,Mississippi,2010
+654,Criminal Conviction,Buying Votes,Kenny Ray Bowen and Billy Street,Mississippi,2010
+655,Criminal Conviction,Buying Votes,"Jasper Buggs, Sr., James Bullock, and…",Mississippi,2010
+657,Criminal Conviction,Buying Votes,"Tate King, Henry Massey, and Lillie…",Mississippi,2010
+658,Criminal Conviction,Duplicate Voting,Christopher Luke Fithian,New Hampshire,2010
+659,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ernest Storr,New Jersey,2010
+660,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Gianine Narvaez,New Jersey,2010
+661,Criminal Conviction,"Ballot Petition Fraud, Buying Votes",Deborah Ramirez,Ohio,2010
+662,Criminal Conviction,False Registrations,"Eric Jones, Alexis Givner, and Mario…",Pennsylvania,2010
+663,Criminal Conviction,Fraudulent Use Of Absentee Ballots,David Patrick Duffy,Pennsylvania,2010
+664,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Norma Lopez,Texas,2010
+665,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Raul Pena, Jr.",Texas,2010
+666,Diversion Program,Fraudulent Use Of Absentee Ballots,Andrea Campos Bierstedt,Texas,2010
+667,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Alicia Pena Perez,Texas,2010
+668,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Zaida Cantu Bueno,Texas,2010
+669,Diversion Program,False Registrations,Estela Cruz Saenz,Texas,2010
+670,Diversion Program,False Registrations,Maria Mendoza Garcia,Texas,2010
+671,Criminal Conviction,Ineligible Voting,Ruben Trevino Garcia,Texas,2010
+673,Diversion Program,Fraudulent Use Of Absentee Ballots,Christina Lichtenberger,Texas,2010
+674,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Cynthia Lopez,Texas,2010
+675,Criminal Conviction,Ineligible Voting,Mario Manuel Medrano,Texas,2010
+676,Criminal Conviction,Ineligible Voting,Bernard Pace,Virginia,2010
+677,Criminal Conviction,Ineligible Voting,Bonnie Nicholson,Virginia,2010
+678,Criminal Conviction,"Duplicate Voting, Fraudulent Use Of Absentee Ballots",Janice Waters,Washington,2010
+679,Criminal Conviction,Ineligible Voting,Lavelle Morris,Wisconsin,2010
+680,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Irving Anders,Wisconsin,2010
+681,Criminal Conviction,False Registrations,Kevin Clancy and Maria Miles,Wisconsin,2010
+682,Criminal Conviction,Ineligible Voting,L.B. Dean,Wisconsin,2010
+683,Criminal Conviction,Ineligible Voting,Terry Krall,Wisconsin,2010
+684,Criminal Conviction,Ineligible Voting,David Lewis and Ramon Martinez,Wisconsin,2010
+685,Criminal Conviction,Ineligible Voting,Glenn Schofield,Wisconsin,2010
+686,Criminal Conviction,False Registrations,Frank Edmund Walton,Wisconsin,2010
+687,Criminal Conviction,"Duplicate Voting, Fraudulent Use Of Absentee Ballots",Louis and Jane Kwiatkowski,Wisconsin,2010
+689,Criminal Conviction,Duplicate Voting,James Surkamp,West Virginia,2010
+690,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Valada Paige Banks and Rosie Lyles,Alabama,2009
+691,Criminal Conviction,Duplicate Voting,James and Karen Marshall,Arizona,2009
+692,Criminal Conviction,False Registrations,Leonis and Domenica Malburg,California,2009
+693,Criminal Conviction,False Registrations,Mark Jacoby,California,2009
+694,Civil Penalty,Fraudulent Use Of Absentee Ballots,Lillian Cummings Stevenson,Connecticut,2009
+695,Criminal Conviction,Duplicate Voting,Walter A. Coiner,Idaho,2009
+696,Official Finding,Ineligible Voting,Margarita Del Pilar Fitzpatrick,Illinois,2009
+697,Official Finding,Ineligible Voting,Anthony Kimani,Illinois,2009
+698,Criminal Conviction,Ballot Petition Fraud,Eugene Kryczka,Illinois,2009
+699,Criminal Conviction,Ballot Petition Fraud,Kenneth Davison and Jerry D. Knight,Illinois,2009
+700,Criminal Conviction,Duplicate Voting,Howard Duncan,Kansas,2009
+701,Diversion Program,Duplicate Voting,"Raymond H. Kurtz, Jr.",Kansas,2009
+702,Criminal Conviction,Ineligible Voting,Stephen Ray Thomason,Kentucky,2009
+703,Criminal Conviction,Buying Votes,Robert Madon,Kentucky,2009
+705,Criminal Conviction,Ineligible Voting,Stephen Ray Thomason,Kentucky,2009
+706,Criminal Conviction,False Registrations,Jacqueline Patricia Perry,Minnesota,2009
+707,Criminal Conviction,Ineligible Voting,Matthew James Hinman,Minnesota,2009
+708,Criminal Conviction,False Registrations,James Keith Lesure,Minnesota,2009
+709,Criminal Conviction,Ineligible Voting,Raymundo Gonzalo Silva,Minnesota,2009
+710,Criminal Conviction,Ineligible Voting,Jenna Christine Cook,Minnesota,2009
+711,Criminal Conviction,Ineligible Voting,Steven Todd Kostohryz,Minnesota,2009
+712,Criminal Conviction,Ineligible Voting,Jonathan Curtis Noyes,Minnesota,2009
+713,Criminal Conviction,Ineligible Voting,Thomas Howard Woodward,Minnesota,2009
+714,Criminal Conviction,False Registrations,Karen Louise Mckinney,Minnesota,2009
+715,Criminal Conviction,Ineligible Voting,William Allen Ondracek,Minnesota,2009
+716,Criminal Conviction,Ineligible Voting,Joseph James Wagner,Minnesota,2009
+717,Criminal Conviction,Ineligible Voting,Karl Edward Bennett,Minnesota,2009
+718,Criminal Conviction,Ineligible Voting,Cynthia Rene Clark,Minnesota,2009
+719,Criminal Conviction,Ineligible Voting,Kerry Ann Kellar,Minnesota,2009
+721,Criminal Conviction,Ineligible Voting,Freda Jean Jahnke,Minnesota,2009
+722,Criminal Conviction,Buying Votes,Clint Moffitt and Ada Tucker,Mississippi,2009
+723,Diversion Program,Fraudulent Use Of Absentee Ballots,Jerry Kennamore,Mississippi,2009
+724,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"John Fernandez, Edwin Cruz, and Rocio…",New Jersey,2009
+725,Diversion Program,Fraudulent Use Of Absentee Ballots,Samuel Gonzalez,New Jersey,2009
+726,Diversion Program,Fraudulent Use Of Absentee Ballots,Jamel Holley,New Jersey,2009
+727,Criminal Conviction,False Registrations,Horacio Favela,New Mexico,2009
+728,Diversion Program,Fraudulent Use Of Absentee Ballots,Teresa Monahan,New Mexico,2009
+729,Criminal Conviction,Ballot Petition Fraud,Dominick Forte,New York,2009
+730,Criminal Conviction,False Registrations,Darnell Nash,Ohio,2009
+731,Criminal Conviction,Duplicate Voting,Terry Belli,Ohio,2009
+732,Criminal Conviction,Ballot Petition Fraud,Donshay Lemar Carter,Ohio,2009
+733,Criminal Conviction,Ballot Petition Fraud,Jowan N. Christian,Ohio,2009
+734,Criminal Conviction,Miscellaneous,Brenda Cornwell,Ohio,2009
+735,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Michele Finney,Ohio,2009
+737,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Michele Finney,Ohio,2009
+738,Criminal Conviction,False Registrations,"Daniel Hausman, Amy Little, and Yolanda…",Ohio,2009
+739,Criminal Conviction,False Registrations,Jemar Barksdale,Pennsylvania,2009
+740,Criminal Conviction,"Ineligible Voting, False Registrations",James Gary Norman,Tennessee,2009
+741,Diversion Program,"Fraudulent Use Of Absentee Ballots, False Registrations",Maria Gonzalez,Texas,2009
+742,Criminal Conviction,Ineligible Voting,Elizabeth Martinez,Texas,2009
+743,Criminal Conviction,Ineligible Voting,Paulito Nilo,Texas,2009
+744,Criminal Conviction,Ineligible Voting,Cynthia Pena,Texas,2009
+745,Criminal Conviction,Ineligible Voting,Raul Reyna,Texas,2009
+746,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Guadalupe Rios,Texas,2009
+747,Criminal Conviction,Miscellaneous,Leland Mac Coffman,Texas,2009
+748,Diversion Program,Impersonation Fraud At The Polls,Jack Carol Crowder,Texas,2009
+749,Diversion Program,"Fraudulent Use Of Absentee Ballots, False Registrations",Oralia Frausto,Texas,2009
+750,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Susan Risenhoover,Washington,2009
+751,Criminal Conviction,False Registrations,Latoya Lewis,Wisconsin,2009
+753,Criminal Conviction,Ineligible Voting,Kendall Craker,Wisconsin,2009
+754,Criminal Conviction,False Registrations,Latoya Lewis,Wisconsin,2009
+755,Criminal Conviction,Ballot Petition Fraud,Endalyn Adams and Adam Mucklin,Wisconsin,2009
+756,Criminal Conviction,False Registrations,Don Cornell Williams,California,2008
+757,Criminal Conviction,False Registrations,Christopher Kavanagh,California,2008
+758,Criminal Conviction,Ballot Petition Fraud,Rodney McCulloch,Illinois,2008
+759,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ponciano Herrera,Indiana,2008
+760,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ronald DeCastro,Indiana,2008
+761,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Terrance Lay,Indiana,2008
+762,Criminal Conviction,False Registrations,Brian Berkman,Indiana,2008
+763,Criminal Conviction,Miscellaneous,Natividad Hernandez,Indiana,2008
+764,Criminal Conviction,False Registrations,Christopher and Michael Lopez,Indiana,2008
+765,Criminal Conviction,False Registrations,Joseph Pedraza and Constance D. Simmons…,Indiana,2008
+766,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Kristy Ellen Dettle,Minnesota,2008
+767,Criminal Conviction,False Registrations,"Brian Bland, Bobbie Jean Cheeks, Cortez…",Missouri,2008
+769,Criminal Conviction,"Duplicate Voting, Fraudulent Use Of Absentee Ballots",Joel Neal,Missouri,2008
+770,Criminal Conviction,Ballot Petition Fraud,Vincent Sculco,New York,2008
+771,Criminal Conviction,False Registrations,Christopher Hargrove,Ohio,2008
+772,Criminal Conviction,Miscellaneous,Danielle Phillips,Ohio,2008
+773,Criminal Conviction,Miscellaneous,Jalynn Stowers,Ohio,2008
+774,Criminal Conviction,False Registrations,Kevin Duffy,Ohio,2008
+775,Criminal Conviction,Miscellaneous,Christine Freshour,Ohio,2008
+776,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Christopher Campbell,South Carolina,2008
+777,Diversion Program,Duplicate Voting,Jose Rene Gomez,Texas,2008
+778,Diversion Program,Fraudulent Use Of Absentee Ballots,Lydia Molina,Texas,2008
+779,Diversion Program,Fraudulent Use Of Absentee Ballots,Oscar Rios,Texas,2008
+780,Diversion Program,Fraudulent Use Of Absentee Ballots,Maria Soriano,Texas,2008
+781,Diversion Program,Fraudulent Use Of Absentee Ballots,Mark Littlefield,Texas,2008
+782,Diversion Program,Fraudulent Use Of Absentee Ballots,Maria Adelina Trigo,Texas,2008
+783,Diversion Program,Miscellaneous,Jami Parkinson Billings,Texas,2008
+785,Diversion Program,Duplicate Voting,Jose Rene Gomez,Texas,2008
+786,Diversion Program,False Registrations,"Zachary Millett, Brandon Ellsworth, and…",Utah,2008
+787,Diversion Program,Ineligible Voting,Randell Lee Cole,Washington,2008
+788,Diversion Program,Fraudulent Use Of Absentee Ballots,Todd Stuart McGuire,Washington,2008
+789,Criminal Conviction,Ballot Petition Fraud,Mickensey Oliveria,California,2007
+790,Criminal Conviction,False Registrations,John McCarthy,Colorado,2007
+791,Civil Penalty,Fraudulent Use Of Absentee Ballots,"James Bryant, Jr.",Georgia,2007
+792,Civil Penalty,Fraudulent Use Of Absentee Ballots,Jerry Metts,Georgia,2007
+793,Official Finding,Ineligible Voting,Elizabeth Dag Um Keathley,Illinois,2007
+794,Criminal Conviction,Buying Votes,"Charles Powell, Sheila Thomas, Jesse…",Illinois,2007
+795,Criminal Conviction,False Registrations,"Arthur Vera, Elvia Vera, Armando Vera,…",Indiana,2007
+796,Criminal Conviction,False Registrations,Jose Arroyo and Mabel Komendat,Indiana,2007
+797,Criminal Conviction,False Registrations,Ashley Dunlop,Indiana,2007
+798,Criminal Conviction,Miscellaneous,Levones Tolbert,Indiana,2007
+799,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Allan ""Twig"" Simmons",Indiana,2007
+801,Criminal Conviction,False Registrations,Mario Del Valle,Indiana,2007
+802,Criminal Conviction,False Registrations,Michael Harretos and Ezequiel Godinez,Indiana,2007
+803,Criminal Conviction,False Registrations,"Arthur Vera, Elvia Vera, Armando Vera,…",Indiana,2007
+804,Criminal Conviction,False Registrations,Jose Arroyo and Mabel Komendat,Indiana,2007
+805,Criminal Conviction,False Registrations,Ashley Dunlop,Indiana,2007
+806,Criminal Conviction,Miscellaneous,Levones Tolbert,Indiana,2007
+807,Criminal Conviction,False Registrations,Ricardo Alamillo,Indiana,2007
+808,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Allan ""Twig"" Simmons",Indiana,2007
+809,Criminal Conviction,Buying Votes,Fred Clinton Johnson,Kentucky,2007
+810,Criminal Conviction,Buying Votes,"Donald ""Champ"" Maze",Kentucky,2007
+811,Criminal Conviction,Buying Votes,Walter Bascom Shrout,Kentucky,2007
+812,Criminal Conviction,Buying Votes,Daugh White,Kentucky,2007
+813,Criminal Conviction,Buying Votes,Charles Hart,Kentucky,2007
+814,Criminal Conviction,Buying Votes,Darnell Hipsher,Kentucky,2007
+815,Criminal Conviction,"Buying Votes, Fraudulent Use Of Absentee Ballots",Edward Pinkney,Michigan,2007
+817,Criminal Conviction,False Registrations,Kwaim Stenson,Missouri,2007
+818,Criminal Conviction,False Registrations,Carmen Davis,Missouri,2007
+819,Criminal Conviction,False Registrations,Dale Franklin and Brian Gardner,Missouri,2007
+820,Civil Penalty,"Fraudulent Use Of Absentee Ballots, Illegal ""Assistance"" At The Polls",Ike Brown,Mississippi,2007
+821,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Martha Gardner,Mississippi,2007
+822,Criminal Conviction,Duplicate Voting,Claudel Gilbert,Ohio,2007
+823,Criminal Conviction,Miscellaneous,Jacqueline Maiden and Kathleen Dreamer,Ohio,2007
+824,Criminal Conviction,Miscellaneous,Katherine Morrow,Ohio,2007
+825,Criminal Conviction,False Registrations,Charles Worrell and Jerolynn Worrell,Ohio,2007
+826,Criminal Conviction,Miscellaneous,Melissa Sparks,Ohio,2007
+827,Criminal Conviction,Miscellaneous,Alan Szabo,Ohio,2007
+828,Criminal Conviction,Miscellaneous,Rachelle Zimmerman,Ohio,2007
+829,Criminal Conviction,Miscellaneous,"Verline Mayo, Gertrude Otteridge, and…",Tennessee,2007
+830,Diversion Program,"Illegal ""Assistance"" At The Polls",Vancey Voorhies,Tennessee,2007
+831,Criminal Conviction,False Registrations,Debra Briseno,Texas,2007
+833,Criminal Conviction,False Registrations,Debra Briseno,Texas,2007
+834,Criminal Conviction,"Buying Votes, Fraudulent Use Of Absentee Ballots",Ben Cooper and 14 co-conspirators,Virginia,2007
+835,Criminal Conviction,False Registrations,Tina Johnson and Jayson Woods,Washington,2007
+836,Diversion Program,False Registrations,Kendra Lynn Thill,Washington,2007
+837,Criminal Conviction,False Registrations,Clifton Eugene Mitchell,Washington,2007
+838,Criminal Conviction,False Registrations,Ryan Olson,Washington,2007
+839,Criminal Conviction,"Fraudulent Use Of Absentee Ballots, Ineligible Voting",Kimberly Prude,Wisconsin,2007
+840,Criminal Conviction,Duplicate Voting,Michael Zore,Wisconsin,2007
+841,Criminal Conviction,"False Registrations, Ballot Petition Fraud",Roger Treskunoff,California,2006
+842,Criminal Conviction,False Registrations,"Jason Holly, Jessica Sundell, and…",California,2006
+843,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Winston Keyes,Colorado,2006
+844,Criminal Conviction,Ineligible Voting,Mohsin Ali,Florida,2006
+845,Criminal Conviction,False Registrations,Antonio and Alycia Mendiola,Indiana,2006
+846,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Eduardo Perez, Sr.",Indiana,2006
+847,Criminal Conviction,False Registrations,Larry Battle,Indiana,2006
+849,Criminal Conviction,False Registrations,Tamika Lay,Indiana,2006
+850,Criminal Conviction,False Registrations,Demetreos Hasapis,Indiana,2006
+851,Criminal Conviction,Buying Votes,"Randy Thompson, John Mac Combs, Phillip…",Kentucky,2006
+852,Criminal Conviction,Buying Votes,Johnny Ray Turner,Kentucky,2006
+853,Criminal Conviction,False Registrations,Michelle Robinson,Missouri,2006
+854,Criminal Conviction,False Registrations,Timothy Barnes,New Hampshire,2006
+855,Criminal Conviction,Duplicate Voting,Clyde Gerbeck,New York,2006
+856,Criminal Conviction,Ballot Petition Fraud,Richard Saint Angel,New York,2006
+857,Criminal Conviction,Duplicate Voting,Leanne Lewis,Oregon,2006
+858,Criminal Conviction,Ballot Petition Fraud,Diana Clagett,Oregon,2006
+859,Criminal Conviction,Duplicate Voting,Ricky Graybael,Oregon,2006
+860,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Isabel Rios Gonzalez,Texas,2006
+861,Diversion Program,Fraudulent Use Of Absentee Ballots,Anita Baeza,Texas,2006
+862,Diversion Program,"Illegal ""Assistance"" At The Polls",Maria Dora Flores,Texas,2006
+863,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Willie J. Ray, Jamillah Johnson",Texas,2006
+865,Diversion Program,Fraudulent Use Of Absentee Ballots,Melinda Hunter,Texas,2006
+866,Diversion Program,Fraudulent Use Of Absentee Ballots,Josefina Marinas Suarez,Texas,2006
+867,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Trinidad Villalobos,Texas,2006
+868,Diversion Program,Fraudulent Use Of Absentee Ballots,Virginia Ramos Garza,Texas,2006
+869,Diversion Program,Fraudulent Use Of Absentee Ballots,Elida Garza Flores,Texas,2006
+870,Diversion Program,"False Registrations, Fraudulent Use Of Absentee Ballots",Jane Kay Balogh,Washington,2006
+871,Criminal Conviction,Buying Votes,"Greg Stowers, Wandell ""Rocky…",West Virginia,2006
+872,Criminal Conviction,Buying Votes,Perry French Harvey,West Virginia,2006
+873,Criminal Conviction,Ineligible Voting,Rogelio Mejorada-Lopez,Alaska,2005
+874,Criminal Conviction,Fraudulent Use Of Absentee Ballots,"Connie Tyree, Frank ""Pinto""…",Alabama,2005
+875,Criminal Conviction,False Registrations,Trina Stevenson,California,2005
+876,Criminal Conviction,Ineligible Voting,Ajmal Shah,Colorado,2005
+877,Civil Penalty,Fraudulent Use Of Absentee Ballots,Prenzina Holloway,Connecticut,2005
+878,Criminal Conviction,Ineligible Voting,Usman Ali Chaudhary,Florida,2005
+879,Criminal Conviction,Ineligible Voting,Ricardo Knight,Florida,2005
+881,Criminal Conviction,Ineligible Voting,Egbert Rickman,Florida,2005
+882,Criminal Conviction,Ineligible Voting,Astrid Natalia Torres-Perez,Florida,2005
+883,Criminal Conviction,Ballot Petition Fraud,William Burl Clayton III,Idaho,2005
+884,Criminal Conviction,Ballot Petition Fraud,Patty Kae McCammon,Idaho,2005
+885,Criminal Conviction,False Registrations,Patricia Bailey,Illinois,2005
+886,Criminal Conviction,Duplicate Voting,"Leslie McIntosh, James Scherzer, and…",Kansas,2005
+887,Criminal Conviction,Buying Votes,Newton Johnson,Kentucky,2005
+888,Criminal Conviction,Buying Votes,Phillip Slone,Kentucky,2005
+889,Criminal Conviction,Buying Votes,Ross Harris,Kentucky,2005
+890,Criminal Conviction,False Registrations,Pamela Thibodeaux,Louisiana,2005
+891,Criminal Conviction,Duplicate Voting,Brandon E Jones,Missouri,2005
+892,Criminal Conviction,Duplicate Voting,Tammy J. Martin,Missouri,2005
+893,Criminal Conviction,False Registrations,Nonaresa Montgomery,Missouri,2005
+894,Criminal Conviction,False Registrations,Chad Staton,Ohio,2005
+895,Criminal Conviction,Ineligible Voting,Jorge Jesus Hosier,Oregon,2005
+897,Criminal Conviction,Duplicate Voting,Rudolph Vargas,South Dakota,2005
+898,Criminal Conviction,False Registrations,Howard Allen ,Tennessee,2005
+899,Criminal Conviction,Impersonation Fraud At The Polls,Mary Lou Simpson,Tennessee,2005
+900,Diversion Program,Fraudulent Use Of Absentee Ballots,Melva Kay Ponce,Texas,2005
+901,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Johnny Wayne Akers,Texas,2005
+902,Diversion Program,Fraudulent Use Of Absentee Ballots,Doris McFarland,Washington,2005
+903,Diversion Program,Fraudulent Use Of Absentee Ballots,Robert Victor Holmgren,Washington,2005
+904,Criminal Conviction,Buying Votes,Mark Oliver Hrutkay,West Virginia,2005
+905,Criminal Conviction,Buying Votes,John Mendez,West Virginia,2005
+906,Criminal Conviction,Buying Votes,Jerry Weaver and Greg Stowers,West Virginia,2005
+907,Criminal Conviction,Impersonation Fraud At The Polls,Shasta Nicole Crayton,Alabama,2004
+908,Judicial Finding,Election Overturned,"Guntersville, Alabama",Alabama,2004
+909,Criminal Conviction,Ineligible Voting,Jerry St. Clair O'Neil,Florida,2004
+910,Criminal Conviction,Ineligible Voting,Christiana Phillip,Florida,2004
+911,Criminal Conviction,Ineligible Voting,Troy Shivdayal,Florida,2004
+913,Criminal Conviction,Ineligible Voting,Syble McKenzie,Florida,2004
+914,Criminal Conviction,Ineligible Voting,Jerry St. Clair O'Neil,Florida,2004
+915,Criminal Conviction,Ineligible Voting,Christiana Phillip,Florida,2004
+916,Criminal Conviction,Ineligible Voting,Troy Shivdayal,Florida,2004
+917,Criminal Conviction,Ballot Petition Fraud,Jason Jay Goodson,Idaho,2004
+918,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Leander Brooks,Illinois,2004
+919,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Patricia Deganutti,Illinois,2004
+920,Criminal Conviction,Buying Votes,"Leroy Scott Jr., Lillie Nichols,…",Illinois,2004
+921,Criminal Conviction,Buying Votes,William Greg Eason,Mississippi,2004
+922,Diversion Program,False Registrations,"Jerry Lyles, Jr.",Mississippi,2004
+923,Criminal Conviction,Buying Votes,Minnie Saulsberry,Mississippi,2004
+924,Criminal Conviction,Buying Votes,"Anita Moore, Valerie Moore, Carlos Hood…",North Carolina,2004
+925,Criminal Conviction,Duplicate Voting,Victor Bernard Pinho,Pennsylvania,2004
+926,Criminal Conviction,False Registrations,"George Edgar Rheam, Jr.",Pennsylvania,2004
+927,Criminal Conviction,Duplicate Voting,Dustin Shane Collings (a.k.a. Dustin…,Washington,2004
+929,Criminal Conviction,Ballot Petition Fraud,Douglas Ferrel,Wisconsin,2004
+930,Criminal Conviction,Buying Votes,"Alvin Ray Porter, Jr.",West Virginia,2004
+931,Criminal Conviction,Buying Votes,Johnny Mendez,West Virginia,2004
+932,Civil Penalty,Fraudulent Use Of Absentee Ballots,Eva Corrigan,Connecticut,2003
+933,Civil Penalty,Fraudulent Use Of Absentee Ballots,Barnaby Horton,Connecticut,2003
+934,Criminal Conviction,Ineligible Voting,Rafael Antonio Velasquez,Florida,2003
+935,Criminal Conviction,False Registrations,Robert Croy,Indiana,2003
+936,Criminal Conviction,"False Registrations, Election Overturned",Valerie McGowan,Indiana,2003
+937,Criminal Conviction,Buying Votes,Glenn Pitts,Indiana,2003
+938,Criminal Conviction,"Ineligible Voting, Fraudulent Use Of Absentee Ballots",Michelle Chandler,Indiana,2003
+939,Criminal Conviction,False Registrations,Dolores Croy,Indiana,2003
+940,Criminal Conviction,Buying Votes,Donnie Newsome,Kentucky,2003
+941,Criminal Conviction,Buying Votes,Willard Smith,Kentucky,2003
+942,Criminal Conviction,False Registrations,Tyrell Matthews Braud,Louisiana,2003
+943,Criminal Conviction,Buying Votes,"Elberta Brown, Leon Hunt, and Tobe…",Mississippi,2003
+945,Criminal Conviction,Ineligible Voting,Joshua Workman,North Carolina,2003
+946,Criminal Conviction,Duplicate Voting,Ronald Callaway,New Jersey,2003
+947,Criminal Conviction,Ineligible Voting,Terence John Finch,Oregon,2003
+948,Criminal Conviction,False Registrations,Mark Cosentino,Pennsylvania,2003
+949,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Nathaniel Gosha and Lizzie Mae Perry,Alabama,2002
+950,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Larry Gray,Arkansas,2002
+951,Criminal Conviction,False Registrations,Edward Barquet and Michelle Corrall,California,2002
+952,Civil Penalty,Ballot Petition Fraud,Dolores Scalesse,Connecticut,2002
+953,Civil Penalty,Ineligible Voting,Michael Singh,Connecticut,2002
+954,Civil Penalty,Fraudulent Use Of Absentee Ballots,Hector Riellano,Connecticut,2002
+955,Civil Penalty,Duplicate Voting,Russel Withers,Illinois,2002
+956,Criminal Conviction,Buying Votes,Lincoln Carmouche,Louisiana,2002
+957,Criminal Conviction,Ineligible Voting,Linda Deren,Pennsylvania,2002
+958,Judicial Finding,Election Overturned,"Compton, CA",California,2001
+959,Civil Penalty,Fraudulent Use Of Absentee Ballots,Sybil Allen,Connecticut,2001
+961,Civil Penalty,Fraudulent Use Of Absentee Ballots,Paulette Park,Connecticut,2001
+962,Civil Penalty,Fraudulent Use Of Absentee Ballots,Sybil Allen,Connecticut,2001
+963,Civil Penalty,Fraudulent Use Of Absentee Ballots,Warren Blunt,Connecticut,2001
+964,Criminal Conviction,Ballot Petition Fraud,Paul Frankel and James Gurga,Oregon,2001
+965,Criminal Conviction,Duplicate Voting,Asa Steven Large,Oregon,2001
+966,Criminal Conviction,"False Registrations, Fraudulent Use Of Absentee Ballots",Gary and Leila Blake,Wyoming,2001
+967,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Melvin Lightning and Aaron Evans,Alabama,2000
+968,Criminal Conviction,"Buying Votes, Fraudulent Use Of Absentee Ballots","Sheriff David Sutherland, Denita Lee,…",Alabama,2000
+969,Civil Penalty,Fraudulent Use Of Absentee Ballots,"George Cabrera, Jr.",Connecticut,2000
+970,Civil Penalty,Ineligible Voting,Carlos Reinoso,Connecticut,2000
+971,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Gilda Oliveros,Florida,2000
+972,Criminal Conviction,False Registrations,Cynthia McCloud,Ohio,2000
+973,Criminal Conviction,"False Registrations, Fraudulent Use Of Absentee Ballots",Jon Saylor,Ohio,2000
+974,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Terri Louise Kobialka,Oregon,2000
+975,Criminal Conviction,False Registrations,Carolyn Paseneaux,Wyoming,2000
+977,Criminal Conviction,False Registrations,Jose De Goti Sr.,Florida,1999
+978,Criminal Conviction,False Registrations,John O'Hara,New York,1999
+979,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Austin Murphy,Pennsylvania,1999
+980,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Humberto Hernandez,Florida,1998
+981,Civil Penalty,Fraudulent Use Of Absentee Ballots,Rudene McNeair,Georgia,1998
+982,Civil Penalty,Fraudulent Use Of Absentee Ballots,Betty Stewart,Georgia,1998
+983,Civil Penalty,Fraudulent Use Of Absentee Ballots,Jackie Bailey,Georgia,1998
+984,Civil Penalty,Fraudulent Use Of Absentee Ballots,Gloria Davis,Georgia,1998
+985,Civil Penalty,Fraudulent Use Of Absentee Ballots,Doris Gaskins,Georgia,1998
+986,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Gillian Yingling,New Mexico,1998
+987,Criminal Conviction,Miscellaneous,Michael Vadella,Pennsylvania,1998
+988,Criminal Conviction,Miscellaneous,James Vadella,Pennsylvania,1998
+989,Criminal Conviction,Miscellaneous,Joseph Vadella,Pennsylvania,1998
+990,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Liz Diaz,Connecticut,1997
+991,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Virgen Figueroa,Connecticut,1997
+993,Criminal Conviction,Buying Votes,"Jackson Jones, Don McCranie, and Doyce…",Georgia,1997
+994,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Edwin E. Garcia,Connecticut,1996
+995,Judicial Finding,Election Overturned,"Hialeah, FL",Florida,1996
+996,Civil Penalty,Fraudulent Use Of Absentee Ballots,Jacqueline Rogers,Connecticut,1994
+997,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Calvin McFarland,Mississippi,1993
+998,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Sandra Sewell,Mississippi,1993
+999,Judicial Finding,Election Overturned,Hardee County,Florida,1992
+1000,Civil Penalty,Fraudulent Use Of Absentee Ballots,Curtis Mouning,Connecticut,1991
+1001,Criminal Conviction,Fraudulent Use Of Absentee Ballots,Ernest Newton,Connecticut,1988
+1002,Criminal Conviction,Buying Votes,41 Individuals,North Carolina,1986
+1003,Criminal Conviction,False Registrations,Vander Beatty,New York,1983
+1004,Criminal Conviction,False Registrations,"Ross Segawa, Clifford Uwaine, Debra…",Hawaii,1982
+1005,Criminal Conviction,False Registrations,63 Individuals,Illinois,1982
+1006,Criminal Conviction,False Registrations,Fernando Osorio,California,
+1007,Criminal Conviction,Ineligible Voting,Max Burchett,Oklahoma,
